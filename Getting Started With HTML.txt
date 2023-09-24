@@ -1,0 +1,23 @@
+﻿Getting Started With HTML 
+Assignment 1
+
+
+Q.2- Explain the purpose of comments in HTML and provide an example how to use comments in HTML documents?
+Ans.2- The purpose of comments in html is  to add notes within the code in web page browser.
+Example- <!--additional note--!>
+Q.4- Write a short note on tag and elements with an example?
+Ans.4- TAGS:- Tags are the starting and ending part of the HTML elements.They begin with < symbol and end with > symbol are called tags.
+Example- <h1> </h1>
+ELEMENTS:-  Elements enclose the content in between the tags. They consist of some kind of structure or expression. 
+Example- <h1> this is the content</h1>
+Q.5- what is the DOCTYPE declarationt in HTML?
+Ans- The HTML doctype is the first line of code required in every html. The doctype declaration is an instruction to the web browser.
+
+
+
+
+
+
+
+
+Full Stack Web Development
